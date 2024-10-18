@@ -1,5 +1,7 @@
 Conversor de Monedas
+
 Descripción
+
 Este proyecto es una aplicación en Java que permite convertir entre distintas monedas latinoamericanas y el dólar estadounidense. 
 Utiliza una API externa para obtener las tasas de cambio actualizadas y permite realizar conversiones mediante una interfaz de consola interactiva.
 
@@ -8,6 +10,7 @@ Conexión a una API externa para obtener tasas de cambio en tiempo real.
 Conversión de las siguientes monedas: USD, ARS, BOB, BRL, CLP, COP.
 Interfaz de usuario sencilla a través de consola.
 Actualización dinámica de las tasas de cambio.
+
 Requisitos
 Java 11 o superior
 Biblioteca Gson para procesar JSON.
@@ -53,6 +56,7 @@ Elija una opción: 1
 Ingrese la cantidad a convertir: 100
 100.00 ARS = 0.25 USD
 Tasa de cambio: 1 USD = 396.50 ARS (as of 2024-10-17T10:30:00)
+
 Contribuir
 Las contribuciones son bienvenidas. Puedes hacer un fork del repositorio, 
 crear una nueva rama con tus cambios, y enviar un Pull Request.
