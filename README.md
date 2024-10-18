@@ -35,19 +35,12 @@ Al iniciar la aplicación, se presentará un menú donde podrás elegir entre di
 Ingresa la cantidad que deseas convertir y obtendrás el resultado junto con la tasa de cambio actual.
 
 Menú de opciones:
-
 Convertir de ARS a USD
-
 Convertir de BOB a USD
-
 Convertir de BRL a USD
-
 Convertir de CLP a USD
-
 Convertir de COP a USD
-
 Convertir de USD a otra moneda
-
 Salir
 
 Ejemplo de Ejecución
