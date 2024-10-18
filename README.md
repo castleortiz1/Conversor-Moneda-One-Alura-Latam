@@ -22,9 +22,10 @@ Gitbash
 https://github.com/castleortiz1/Conversor-Moneda-One-Alura-Latam
 2. Importa el proyecto en tu IDE de preferencia (Eclipse, IntelliJ, etc.).
 3. Añade la librería Gson al proyecto. Puedes descargarla desde aquí o usar un sistema de gestión de dependencias como Maven o Gradle.
-4. Obtén una clave API gratuita desde ExchangeRate API y reemplázala en el archivo ExchangeRateClient.java:
-private static final String API_KEY = "TU_CLAVE_API";
-5. Ejecuta el proyecto desde la clase Main.java.
+4. Obtén una clave API gratuita desde ExchangeRate API y reemplázala en el archivo:
+    ExchangeRateClient.java:
+   private static final String API_KEY = "TU_CLAVE_API";
+6. Ejecuta el proyecto desde la clase Main.java.
 
 Uso
 Al iniciar la aplicación, se presentará un menú donde podrás elegir entre diferentes opciones de conversión de monedas.
