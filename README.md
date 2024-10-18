@@ -24,7 +24,7 @@ https://github.com/castleortiz1/Conversor-Moneda-One-Alura-Latam
 3. Añade la librería Gson al proyecto. Puedes descargarla desde aquí o usar un sistema de gestión de dependencias como Maven o Gradle.
 4. Obtén una clave API gratuita desde ExchangeRate API y reemplázala en el archivo:
     ExchangeRateClient.java:
-   private static final String API_KEY = "TU_CLAVE_API";
+       private static final String API_KEY = "TU_CLAVE_API";
 6. Ejecuta el proyecto desde la clase Main.java.
 
 Uso
