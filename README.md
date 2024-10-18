@@ -61,8 +61,11 @@ Ejemplo de Ejecución
 7. Salir
    
 Elija una opción: 1
+
 Ingrese la cantidad a convertir: 100
+
 100.00 ARS = 0.25 USD
+
 Tasa de cambio: 1 USD = 396.50 ARS (as of 2024-10-17T10:30:00)
 
 Contribuir
